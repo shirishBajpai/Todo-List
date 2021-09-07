@@ -1,4 +1,4 @@
-# Todo-List-localStorage
+# Todo-List
 Used concepts :-
 + Html
 + Css
